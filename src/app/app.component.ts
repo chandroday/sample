@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practice';
-public value:any = 0;
+public value:any = 1;
 public add(){
 this.value=this.value+1;
 
